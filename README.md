@@ -1,12 +1,13 @@
 ## Daniel Sort
 I made it in my IT Class out of fun.
 I turned out to be faster than I thought.
+Maybe I add more in the future!
  
 - It's working on all Programming Languages
 - It has two Types (the first one is not very effizient)
 - I made it in two Languages so far
 
-Code Example:
+Code Example in Java (for more look at the language folders!):
 ```java
 ArrayList<Integer> integers = ArrayUtils.randomList2(0, 10);
 System.out.println(integers);
