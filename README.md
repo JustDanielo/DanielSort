@@ -18,3 +18,6 @@ final ArrayList<Integer> output = ArrayUtils.danielsort(integers);
 System.out.println(output);
 System.out.println("It took " + (System.currentTimeMillis() - start) + "ms!");
 ```
+
+# There is also a Visualization!
+[![Watch the video](https://img.youtube.com/vi/hDtmClk6Thc/maxresdefault.jpg)](https://youtu.be/hDtmClk6Thc)
